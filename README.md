@@ -1,16 +1,19 @@
-## Hi there 👋
+# ESTUDIOS 
 
-<!--
-**jonamarinch/jonamarinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GS en Desarrollo de Aplicaciones Multiplataforma
+* SAN PABLO CEU FP | 2023-Actualmente
 
-Here are some ideas to get you started:
+# EXPERIENCIA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Técnico Carreras Profesionales
+* SAN PABLO CEU FP | 2024-Actualmente
+
+# HERRAMIENTAS
+
+* Java, PL/SQL, HTML, CSS, Javascript
+* Git, Vim, Emacs
+
+# IDIOMAS
+
+* Inglés - C2
+* Alemán - A2
