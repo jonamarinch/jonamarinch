@@ -10,7 +10,7 @@
 
 # HERRAMIENTAS
 
-* Java, PL/SQL, HTML, CSS, Javascript
+* Java, PL/SQL, HTML, CSS, Javascript, PHP
 * Git, Vim, Emacs
 
 # IDIOMAS
