@@ -5,8 +5,8 @@
 
 # EXPERIENCIA
 
-### Técnico Carreras Profesionales
-* SAN PABLO CEU FP | 2024-Actualmente
+### Desarrollador Aplicaciones Multiplataforma
+* IOONIC Sistemas Informáticos SL | 2024-Actualmente
 
 # HERRAMIENTAS
 
