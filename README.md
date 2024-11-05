@@ -5,7 +5,7 @@
 
 # EXPERIENCIA
 
-### Desarrollador Aplicaciones Multiplataforma
+### Técnico Desarrollo Aplicaciones Multiplataforma
 * IOONIC Sistemas Informáticos SL | 2024-Actualmente
 
 # HERRAMIENTAS
