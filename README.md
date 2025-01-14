@@ -10,10 +10,5 @@
 
 # HERRAMIENTAS
 
-* Java, PL/SQL, HTML, CSS, Javascript, Kotlin
+* Java, PL/SQL, Javascript, Kotlin
 * Git, Vim, Emacs
-
-# IDIOMAS
-
-* Inglés - C2
-* Alemán - A2
